@@ -1,2 +1,2 @@
 # IFE_study
-study IFE under http://ife.baidu.com
+study html css and javascript and MVVM under http://ife.baidu.com
